@@ -4,19 +4,23 @@ An interactive Flutter app to explore movies, search your favorites, and watch t
 
 🌟 Features
 
-Browse popular movies from TMDB API
+🎬 Movie Carousel – Browse popular movies in a Netflix-style carousel slider.
 
-Search movies dynamically
+🔎 Search Movies – Search movies by name with live results.
 
-Carousel slider with movie posters
+📽 Watch Trailer – Play trailers directly in-app using Chewie & Video Player.
 
-Dynamic background that changes with the current movie
+🌟 Dynamic Background – The carousel syncs with a full-screen blurred background of the current movie.
 
-Tap a movie to view details & watch trailers
+💖 Responsive UI – Better, visually appealing UI with Poppins font.
 
-Shows rating stars and short overview
+🧩 State Management – Built using Flutter BLoC for managing authentication and movie data.
 
-Handles empty searches gracefully
+🔐 Firebase Integration – Authentication with Firebase Auth.
+
+⚡ Error Handling – Graceful handling of missing posters or trailers.
+
+🌐 TMDB API – Fetch popular movies, search movies, and get trailers dynamically.
 
 📦 Getting Started
 1. Clone the repository
