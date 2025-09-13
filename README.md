@@ -1,16 +1,38 @@
-# movie_explorer
+🎬 Movie Explorer 
 
-A new Flutter project.
+An interactive Flutter app to explore movies, search your favorites, and watch trailers. Designed with a playful, aesthetic and smooth animations.
 
-## Getting Started
+🌟 Features
 
-This project is a starting point for a Flutter application.
+Browse popular movies from TMDB API
 
-A few resources to get you started if this is your first Flutter project:
+Search movies dynamically
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Carousel slider with movie posters
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dynamic background that changes with the current movie
+
+Tap a movie to view details & watch trailers
+
+Shows rating stars and short overview
+
+Handles empty searches gracefully
+
+📦 Getting Started
+1. Clone the repository
+git clone https://github.com/<your-username>/movie_explorer.git
+cd movie_explorer
+
+2. Install dependencies
+flutter pub get
+
+3. Run the app
+flutter run
+
+🔗 Resources
+
+Flutter Official Documentation
+ – tutorials, samples, and full API reference
+
+TMDB API
+ – movie data source
